@@ -1335,6 +1335,12 @@
         </variant>
         <variant>
           <configItem>
+            <name>be-latin</name>
+            <description>English (Viva Belarus)</description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
             <name>euro</name>
             <description>English (US, with euro on 5)</description>
           </configItem>
@@ -1731,6 +1737,12 @@
           <configItem>
             <name>latin</name>
             <description>Belarusian (Latin)</description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
+            <name>viva</name>
+            <description>Viva Belarus</description>
           </configItem>
         </variant>
       </variantList>
