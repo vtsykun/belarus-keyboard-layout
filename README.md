@@ -11,7 +11,7 @@
 
 Clone repository
 ```
-git glone https://github.com/vtsykun/belarus-keyboard-layout.git
+git clone https://github.com/vtsykun/belarus-keyboard-layout.git
 cd belarus-keyboard-layout
 ```
 
